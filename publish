@@ -5,6 +5,10 @@ ROOT="$DIR"
 
 cd $ROOT
 
+git add .
 
+git commit -m "1"
+
+git push origin main
 
 read -p "Press any key to continue." var
